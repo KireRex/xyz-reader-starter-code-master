@@ -8,4 +8,8 @@
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="toolbar_title_left_margin">72dp</dimen>
+    <dimen name="custom_match_parent">-1px</dimen>
+    <dimen name="detail_card_width">@dimen/custom_match_parent</dimen>
 </resources>
